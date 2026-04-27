@@ -1,0 +1,6 @@
+name: occupational-exposure-chicken-chain
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies: []
